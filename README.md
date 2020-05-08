@@ -1,2 +1,8 @@
 # bounceOffAlgorithm
-Algorithm to bounce off two objects
+
+
+Output Link
+
+
+
+https://keerat5.github.io/C21/
